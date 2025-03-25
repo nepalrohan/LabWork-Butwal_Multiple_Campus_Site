@@ -78,7 +78,7 @@
 }
 
 .college-slogan {
-  font-size: 120px;
+  font-size: 8vw !important;
   font-weight: bolder;
   color: white;
   text-shadow: 3px 3px 5px rgba(28, 26, 26, 0.3),
@@ -129,7 +129,7 @@
   }
 
   .logo-side h3 {
-    font-size: 20px;
+    font-size: 25px !important;
   }
 
   .menu a {
@@ -137,11 +137,11 @@
   }
 
   .college-slogan {
-    font-size: 40px;
+    font-size: 30px !important;
   }
 
   .address {
-    font-size: 16px;
+    font-size: 15px !important;
   }
 
   .landing-section {
