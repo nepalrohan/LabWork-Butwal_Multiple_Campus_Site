@@ -168,6 +168,22 @@
   }
 }
 
+@media (max-width: 350px) {
+  .logo-side h3 {
+    font-size: 20px !important;
+  }
+  .college-slogan {
+    font-size: 25px !important;
+  }
+  .menu a {
+    font-size: 10px;
+  }
+}
+
+
+
+/* about */
+
 .about {
   width: 100%;
   padding: 50px 20px;
